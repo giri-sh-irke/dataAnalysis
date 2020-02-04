@@ -1,6 +1,5 @@
 ***
-Author - Girish Shirke
-Contact - girish.shirke999@gmail.com
+Author - Girish Shirke (girish.shirke999@gmail.com)
 ***
 
 # Investment Analysis Project
